@@ -1,0 +1,1 @@
+These collectors items were printed as entrance swag for an infamous [[Wilkie's]]-sponsored zero-g rave. Few remain. The graviton-rich adhesive in each palm-sized holographic sticker nullifies 500 lbs of weight from whatever it’s slapped on. Pack of three. **(Costs 1 gem.)** 

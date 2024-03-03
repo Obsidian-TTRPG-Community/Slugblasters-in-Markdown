@@ -1,0 +1,1 @@
+Bad things can happen to a hoverboard. You could shoot it out near a bottomless pit, focus it in a fit of rage, or lose it to an aggressive Rescue officer. Cautious slugblasters might like to know they have second way home. Covers compound-energy photospheres, spare Nth gears, splat-hatches, etc. **(Costs 1 lens.)**

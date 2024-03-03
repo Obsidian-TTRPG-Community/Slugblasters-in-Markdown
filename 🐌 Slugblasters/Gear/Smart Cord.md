@@ -1,0 +1,1 @@
+One of FUST’s most popular products. This cordial cord is one hundred feet of dynamic nylon rope, woven with neural strings. Does rope stuff autonomously like tying knots, affixing to high places, etc. Give it simple voice commands and it does the rest. Warning: screams if you cut it. **(Costs 1 coil, 1 disc.)**

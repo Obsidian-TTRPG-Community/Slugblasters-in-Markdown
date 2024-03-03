@@ -1,0 +1,1 @@
+Originally made to quality-seal pizza boxes, these stasis stickers use tachyonic positrons (aka pause-itrons) to slow entropy in any < 300 lb object they’re stuck to. Pizzas stay hot, gelato stays frozen, people stay young and utterly unconscious. Pack of three. **(Costs 1 lens.)**

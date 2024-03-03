@@ -1,0 +1,1 @@
+You can’t hoverboard if you can’t breathe! A slugblaster’s mask is as unique as their wallet or cellphone case. They can look like bandannas, medical masks, gasmasks, gaiters, hockey masks, Halloween masks, and motocross helmets, all with enough nanofilters, CO₂ scrubbers, and oxygen lattice built in to keep you vaping nature’s own wherever you are. **(Costs 1 coil, 1 lens.)**

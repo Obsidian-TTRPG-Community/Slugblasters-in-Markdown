@@ -1,0 +1,1 @@
+May include soldering irons, laser torches, screwdrivers, ratchets, tweezers, skate-tools, multimeters, oscilloscopes, decoiling pliers, astral bolts, duct tape, and various spare parts needed to repair, salvage, or modify tech away from home. **(Costs 1 coil.)**

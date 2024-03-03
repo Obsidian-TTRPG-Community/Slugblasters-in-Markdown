@@ -1,0 +1,1 @@
+A bit too cold out for a dress? A bit too hot out for pants? A bit too monstery out in general? Wiggle your stems into these classic nanomaterial everydays, and go live your best life, ya know? Nope scrapes, bites, and other lacerations for only 1 trouble. **(Costs 1 lens, 1 coil.)**

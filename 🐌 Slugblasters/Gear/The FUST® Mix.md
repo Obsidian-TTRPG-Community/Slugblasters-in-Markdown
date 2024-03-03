@@ -1,0 +1,1 @@
+A quantum compact disc full of songs curated by FUST music snobs. From remixes and covers of familiar hits, to originals that were never released in this dimension, you’ll always have the right song for any occasion. **(Costs 1 disc.)**

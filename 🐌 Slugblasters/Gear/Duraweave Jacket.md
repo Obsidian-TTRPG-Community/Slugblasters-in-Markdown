@@ -1,0 +1,1 @@
+Your Duraweave jacket has a lifetime warranty for standard wear and tear, but literally nothing you’re doing in it qualifies as standard so don’t get ahead of yourself. Nope bruising, bludgeoning, and crushing for only 1 trouble. **(Costs 1 disc, 1 coil.)**

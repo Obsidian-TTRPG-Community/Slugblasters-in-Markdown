@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "12e0bd81b23eec63",
+    "type": "split",
+    "children": [
+      {
+        "id": "7300027561f36510",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeb00cd77d713bb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rule Reference/Character Creation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fb16d1d103b952d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd6aec2b67fee218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2687c389a7b7cb00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ef35061e6567a91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5808c9f4fb7989ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa006d619ca45a22",
+    "type": "split",
+    "children": [
+      {
+        "id": "36a67e09871359d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eb32a2be4781d59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rule Reference/Character Creation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72a9a003ed68052a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rule Reference/Character Creation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d979755d14afd4e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "745486e15fcb2c71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rule Reference/Character Creation.md"
+              }
+            }
+          },
+          {
+            "id": "372c7449223d3fe4",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "aeb00cd77d713bb5",
+  "lastOpenFiles": [
+    "Rule Reference/Group Actions.md",
+    "Rule Reference/Character Creation.md",
+    "Rule Reference/Alternate Rules.md",
+    "Rule Reference/Peelback.md",
+    "Rule Reference/What a GM Does.md",
+    "🐌 Dashboard.md",
+    "Rule Reference/Crew Creation.md",
+    "Groups/DARA.md",
+    "Groups/Art/Wilkies.png",
+    "Groups/Art/The Wicks.png",
+    "Groups/Art/The Arborists.png",
+    "Groups/Art/Lazy Bunny_c.png",
+    "Groups/Art/Lazy Bunny.png",
+    "Groups/Art/Jet Collective.png",
+    "Groups/Art/Hardecker.png",
+    "Groups/Art/FUST.png",
+    "Groups/Art/BRB.png",
+    "Roll Tables/World Tables/Calorium Checkpoints & Problems.md"
+  ]
+}

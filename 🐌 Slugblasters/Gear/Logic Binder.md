@@ -1,0 +1,1 @@
+Logic Binders are arcane devices that allow you to exist safely in universes with different physical laws than your own, keeping your reality intact long enough for you to get yourself killed in a more comprehensible way. They can look like a remote control, a piece of odd metallic jewelry, or a glittering cloth patch sewn onto your denim jacket. **(Costs 1 disc, 1 gem.)**

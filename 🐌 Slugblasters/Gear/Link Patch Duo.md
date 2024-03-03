@@ -1,0 +1,1 @@
+Sew one onto your jacket and give the other to a friend. Arcane energy entangles your quanta, allowing you to swap places within the same universe and communicate telepathically (emoji only). If one of you peels back, the other does too, and removing either patch hurts you both. Set of two. **(Costs 1 coil, 1 disc, 1 gem.)**

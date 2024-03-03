@@ -1,0 +1,1 @@
+The multi-layered carbon compounds in Ablatine are engineered to crumple, vaporize, melt, fragment, and shatter instead of the wearer’s precious, changing body. Avoid one slam from physical damage for free. Resets during your next In the Lab beat. **(Costs 1 lens, 1 disc.)**

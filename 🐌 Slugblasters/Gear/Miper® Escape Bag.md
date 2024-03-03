@@ -1,0 +1,1 @@
+This single-use emergency device is a big hit with parents. When you would be seriously injured, this backpack instead expands and encloses you in an embarrassingly massive sphere of cushioning material and stable quarks that deposit you back in Null unharmed. **(Costs 1 coil, 1 disc.)**

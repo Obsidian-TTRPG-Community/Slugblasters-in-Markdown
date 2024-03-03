@@ -1,0 +1,1 @@
+This thick, chisel-tip pen lays down a stream of solidified photons. Pop the cap, select the colour with a clicky twist ring, then draw with hardlight paint that floats immovably in empty space and is about as strong as tempered glass. Useful for prototyping, temporary repairs, and innovative graffiti writing. **(Costs 1 lens, 1 coil.)**

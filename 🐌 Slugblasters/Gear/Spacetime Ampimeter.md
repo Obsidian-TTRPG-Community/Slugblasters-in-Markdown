@@ -1,0 +1,1 @@
+Allows you to measure spacetime thickness in your vicinity, which can help you find thin-zones and other quantum abnormalities. Available as a standalone device or as a smartphone dongle. Also grants +1d6 to Portal Discovery beats. **(Costs 1 disc.)**

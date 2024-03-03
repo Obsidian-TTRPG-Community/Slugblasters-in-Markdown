@@ -1,0 +1,1 @@
+Can be controlled manually via a difficult-to-use app, or programmed to fly in predictable patterns or keep a subject in sight. Useful for scouting, filming stunts, carrying less than a kilogram, and running out of power right when it’s 400 feet out over a lake of acid. **(Costs 1 disc.)**

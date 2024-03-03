@@ -1,0 +1,1 @@
+May include an advanced handset or hacking gauntlet, as well as an arsenal of data spikes, keyloggers, transceivers, rippers, cloners, proxies, packet dumps, brute-force salvos, and old-fashioned lock picks. **(Costs 1 disc.)**

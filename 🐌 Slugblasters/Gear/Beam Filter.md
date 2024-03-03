@@ -1,0 +1,1 @@
+A beam filter attaches to your raygun, allowing you to not only adjust the energy type, but also dramatically reskin the way it looks. Change the colour, sculpt the texture, make it look like a stream of glitched-out neon birds, whatever. **(Costs 1 disc, 1 lens.)**

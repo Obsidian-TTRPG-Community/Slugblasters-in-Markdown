@@ -1,0 +1,1 @@
+This iron-on patch absorbs a set amount of most types of energy, including kinetic energy. Avoid one slam from physical damage for free. Once used, the patch fades to greyscale, functionally inert but now valuable as a form of street cred. **(Costs 1 lens, 1 disc.)**

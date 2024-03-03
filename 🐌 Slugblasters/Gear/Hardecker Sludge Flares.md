@@ -1,0 +1,1 @@
+Over 600 cubic feet and 4.5 eventual tons of patented Solidifying Liquid Ultra-Dense Grappling Expansion packed into an 8-inch, 14-ounce baton, originally designed for various mining applications. Crack the stick, stand back, and watch a shipping container worth of sticky hi-viz foam gush out. Pack of two. **(Costs 1 coil.)**
