@@ -13,22 +13,15 @@ This repo contains the random tables, groups, named npcs, and other giblets that
 
 To make use of these features, open the `🐌 Slugblasters` folder within this repo as a Vault within Obsidian. All of these features are displayed in use in the `🐌 Dashboard` file.
 
-**Note 1**: [Wikilinks](https://help.obsidian.md/Linking+notes+and+files/Internal+links) are extremely prevalent within the files. These links are internal, and most text editors (VSCode for example) cannot follow their paths.
+**Note 1**: [Wikilinks](https://help.obsidian.md/Linking+notes+and+files/Internal+links) (and other Obsidian specific syntax) are extremely prevalent within the files. Most (if not all) programs don't know what any of these are, so use at your own risk.
 
-**Note 2**: Some groups have images, some don't. This can't be helped as they just aren't present in the book.
+**Note 2**: Some assets might be missing. The reason is because they are not explicitly present in the main book.
 
 ### Style
 
 Style is the main focus in Slugblasters, so there is a `Obsidian-Accujson.json`, a style json meant for use with the [AnuPpuccin](https://github.com/AnubisNekhet/anuppuccin) theme. You can change themes in the `Options > Appearance > Themes` dropdown (pre-bundled for convienience), and import the style settings through the `Options > Style Settings` menu.
 
 This is completely optional, but recommended if you don't want to fiddle around with themes in Obsidian.
-
-### Things to do
-
-Some things are still missing (yet to be transcribed):
-
-- Crew creation
-- Character creation
 
 ## Legal
 
